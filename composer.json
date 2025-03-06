@@ -1,0 +1,12 @@
+{
+    "name": "victor-adri/satmab",
+    "description": "Este paquete contendra las instrucciones necesarias para que puedan exportarse archivos en hojas de calculo",
+    "autoload": {
+        "psr-4": {
+            "VictorAdri\\Satmab\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.1"
+    }
+}
